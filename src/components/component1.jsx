@@ -5,7 +5,7 @@ export default class Component1 extends Component {
   render() {
     return(
         <>
-        <h1> React Session Assignment 1</h1>
+        <h1> React Session Assignment 1 !</h1>
         <div className='box1'>
             <div>Props in Component {this.props.id} is being passed by {this.props.name} component !</div>
             <div> This is {this.props.type} based component.</div>
